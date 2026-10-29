@@ -1,0 +1,13 @@
+interface:
+  display_name: "关系智能 · 狗头军师 Pro V2"
+  short_description: "先核对事实与沟通边界，再分析关系变化或起草自然回复"
+  default_prompt: "使用 $relationship-intelligence 分析我提供的聊天记录，先区分事实与推测并判断是否该回复，再给出有依据的沟通建议。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

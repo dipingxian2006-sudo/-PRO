@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "generated_at": "2026-09-23 11:29:30",
+    "participants": [
+      "林晓",
+      "阿泽"
+    ],
+    "other_speakers": [],
+    "self": "林晓",
+    "other": "阿泽",
+    "warnings": []
+  },
+  "relation": {
+    "span_days": 11.5,
+    "session_count": 14,
+    "session_gap_minutes": 120,
+    "msg_total": 32,
+    "initiative_share": {
+      "林晓": 0.429,
+      "阿泽": 0.571
+    },
+    "closing_share": {
+      "林晓": 0.786,
+      "阿泽": 0.214
+    },
+    "initiative_skew": 0.143,
+    "volume_skew": 0.249,
+    "count_skew": 0.125,
+    "depth_skew": 0.124,
+    "question_skew": 0.429,
+    "latency_ratio": 6.4,
+    "max_streak": {
+      "林晓": 2,
+      "阿泽": 2
+    },
+    "momentum_recent_vs_base": 0.43,
+    "top_silence_gaps": [
+      {
+        "hours": 46.1,
+        "from": "2026-08-07 22:02",
+        "to": "2026-08-09 20:11"
+      },
+      {
+        "hours": 40.4,
+        "from": "2026-08-11 15:41",
+        "to": "2026-08-13 08:05"
+      },
+      {
+        "hours": 36.4,
+        "from": "2026-08-06 09:35",
+        "to": "2026-08-07 22:01"
+      }
+    ],
+    "speakers_detected": [
+      "林晓",
+      "阿泽"
+    ]
+  },
+  "per_person": {
+    "林晓": {
+      "msg_count": 18,
+      "char_total": 188,
+      "char_avg": 10.4,
+      "char_median": 11.0,
+      "char_p90": 17.0,
+      "media_count": 1,
+      "emoji_count": 1,
+      "question_msgs": 10,
+      "positive_hits": 8,
+      "negative_hits": 3,
+      "hedge_hits": 0,
+      "low_effort_msgs": 2,
+      "night_msgs": 1,
+      "peak_hours": [
+        20,
+        21,
+        9
+      ],
+      "initiated_sessions": 6,
+      "closed_sessions": 11,
+      "max_streak": 2,
+      "reply_latency_median_sec": 230.5,
+      "reply_latency_p75_sec": 401.0,
+      "reply_latency_max_sec": 3883.0,
+      "response_rate": 0.769,
+      "msgs_per_day": 1.57,
+      "question_ratio": 0.556,
+      "low_effort_ratio": 0.111,
+      "night_ratio": 0.056,
+      "pos_neg_ratio": 2.67
+    },
+    "阿泽": {
+      "msg_count": 14,
+      "char_total": 113,
+      "char_avg": 8.1,
+      "char_median": 6.0,
+      "char_p90": 21.0,
+      "media_count": 1,
+      "emoji_count": 0,
+      "question_msgs": 4,
+      "positive_hits": 4,
+      "negative_hits": 1,
+      "hedge_hits": 4,
+      "low_effort_msgs": 3,
+      "night_msgs": 2,
+      "peak_hours": [
+        20,
+        21,
+        23
+      ],
+      "initiated_sessions": 8,
+      "closed_sessions": 3,
+      "max_streak": 2,
+      "reply_latency_median_sec": 36.0,
+      "reply_latency_p75_sec": 73.0,
+      "reply_latency_max_sec": 1039.0,
+      "response_rate": 0.278,
+      "msgs_per_day": 1.22,
+      "question_ratio": 0.286,
+      "low_effort_ratio": 0.214,
+      "night_ratio": 0.143,
+      "pos_neg_ratio": 4.0
+    }
+  },
+  "sessions_preview": [
+    {
+      "start": "2026-08-01 20:14",
+      "by": "林晓",
+      "count": 10,
+      "end": "2026-08-01 21:42",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-01 23:58",
+      "by": "阿泽",
+      "count": 3,
+      "end": "2026-08-02 00:16",
+      "last_by": "阿泽"
+    },
+    {
+      "start": "2026-08-02 09:02",
+      "by": "林晓",
+      "count": 1,
+      "end": "2026-08-02 09:02",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-02 14:20",
+      "by": "阿泽",
+      "count": 2,
+      "end": "2026-08-02 14:22",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-03 10:05",
+      "by": "林晓",
+      "count": 1,
+      "end": "2026-08-03 10:05",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-03 18:44",
+      "by": "阿泽",
+      "count": 2,
+      "end": "2026-08-03 18:50",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-04 21:10",
+      "by": "林晓",
+      "count": 1,
+      "end": "2026-08-04 21:10",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-05 12:03",
+      "by": "阿泽",
+      "count": 3,
+      "end": "2026-08-05 12:11",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-06 09:30",
+      "by": "阿泽",
+      "count": 2,
+      "end": "2026-08-06 09:35",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-07 22:01",
+      "by": "阿泽",
+      "count": 2,
+      "end": "2026-08-07 22:02",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-09 20:11",
+      "by": "林晓",
+      "count": 1,
+      "end": "2026-08-09 20:11",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-10 11:22",
+      "by": "阿泽",
+      "count": 1,
+      "end": "2026-08-10 11:22",
+      "last_by": "阿泽"
+    },
+    {
+      "start": "2026-08-11 15:40",
+      "by": "林晓",
+      "count": 2,
+      "end": "2026-08-11 15:41",
+      "last_by": "林晓"
+    },
+    {
+      "start": "2026-08-13 08:05",
+      "by": "阿泽",
+      "count": 1,
+      "end": "2026-08-13 08:05",
+      "last_by": "阿泽"
+    }
+  ],
+  "signals": [
+    {
+      "code": "LATENCY_ASYMMETRY",
+      "level": "high",
+      "who": "林晓",
+      "desc": "双方回复速度明显不对称",
+      "evidence": "林晓=230.5s / 阿泽=36.0s"
+    },
+    {
+      "code": "LOW_RESPONSE",
+      "level": "high",
+      "who": "阿泽",
+      "desc": "对方发来的消息常常没有接住",
+      "evidence": "阿泽 回应率 0.278"
+    },
+    {
+      "code": "CLOSING_SKEW",
+      "level": "mid",
+      "who": "林晓",
+      "desc": "对话收尾高度集中在单方（另一方常不接最后一句）",
+      "evidence": "收尾占比 {'林晓': 0.786, '阿泽': 0.214}"
+    },
+    {
+      "code": "MOMENTUM_DROP",
+      "level": "high",
+      "who": "双方",
+      "desc": "近期互动密度明显下滑",
+      "evidence": "近 1/4 时间窗日均为基线的 0.43 倍"
+    }
+  ]
+}
